@@ -6,19 +6,11 @@ Hi my name is Sergey and I am a full stack developer from Russia.
 
 ### The main stack
 
-<picture><img src="https://skillicons.dev/icons?i=javascript,typescript,nodejs,php" /></picture>
-
-## Markup and styling
-
-<picture><img src="https://skillicons.dev/icons?i=html,css,sass" /></picture>
+<picture><img src="https://skillicons.dev/icons?i=html,css,sass,javascript,typescript,nodejs,php" /></picture>
 
 ## Libraries and frameworks
 
 <picture><img src="https://skillicons.dev/icons?i=react,vue" /></picture>
-
-## Databases and data storage
-
-<picture><img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws" /></picture>
 
 ## Tools
 
