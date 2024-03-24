@@ -14,7 +14,7 @@ Hi my name is Sergey and I am a full stack developer from Russia.
 
 ## Tools
 
-<picture><img src="https://skillicons.dev/icons?i=docker,git,gulp,webpack" /></picture>
+<picture><img src="https://skillicons.dev/icons?i=docker,git,gulp,webpack,vite" /></picture>
 
 ### Connect with me:
 
